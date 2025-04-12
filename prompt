@@ -1,0 +1,16 @@
+            Generate professional and helpful comments for the following Python code.
+
+            Requirements:
+            1. Add clear docstrings to functions and classes explaining purpose, parameters, and return values
+            2. Add concise inline comments for complex logic
+            3. Follow Python comment conventions
+            4. DO NOT modify the actual code, only add comments
+            5. Preserve all original code formatting and functionality
+
+            Code to comment:
+            ```python
+            {code_input}
+            ```
+
+            Return ONLY the commented code.
+            """

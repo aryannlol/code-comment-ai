@@ -1,0 +1,55 @@
+/* Page Background and Font */
+body {
+    background-color: #1e1e2f;
+    color: #f0f0f0;
+    font-family: 'Fira Code', monospace;
+}
+
+/* Title Styling */
+h1 {
+    color: #61dafb;
+    text-align: center;
+}
+
+/* Text Input Area */
+textarea, .stTextInput > div > input {
+    background-color: #2b2b3d !important;
+    color: #f0f0f0 !important;
+    border: 1px solid #444 !important;
+    border-radius: 5px;
+}
+
+/* Buttons */
+button {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+/* Download button */
+a[data-testid="stDownloadButton"] {
+    background-color: #007bff !important;
+    border-radius: 5px;
+    color: white;
+}
+
+/* Code blocks */
+code, pre {
+    background-color: #2b2b3d !important;
+    color: #f8f8f2 !important;
+    padding: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Success, error, warning boxes */
+.stAlert {
+    border-radius: 6px !important;
+    padding: 10px;
+}
+
+/* Section headers */
+h2, h3 {
+    color: #fca311;
+}
