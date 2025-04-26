@@ -1,2 +1,6 @@
 google-generativeai
+<<<<<<< HEAD
 dotenv
+=======
+dotenv
+>>>>>>> bf922c0f7006844ccd17bced65ab65ea48eaef5d
